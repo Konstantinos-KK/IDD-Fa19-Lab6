@@ -67,6 +67,6 @@ The Mathbot is a chatbot that is made to provoke the user and promote quantitati
 ## Record someone trying out your ChatBot
 
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
-[Video]()
+[Video of my Friend Tomi](https://www.youtube.com/watch?v=5IZBhxZSt8w)
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).

@@ -8,8 +8,9 @@ You'll need to upload any code you change into your fork, as well as upload a vi
 ## Make the ChatBot your own
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
-[Code]() 
-The Mathbot is a chatbot that is made to provoke the user and promote quantitative thinking.
+[Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab6/blob/master/chatServer.js) 
+
+The Mathbot is a chatbot that is made to provoke the user and promote quantitative thinking. At first it asks the user name and if they consider themselves good at math. The colors of the backgorund and fonts is also changed to indicate a more aggressive behavior in the beginning. Then it proceeds to asks excessively hard questions. Each question can have multiple responses and yes or no questions have also a case to cover a weird input. At the end the chatbot terminated by congratulating the user and saying that the exam is completed. 
 
 ```js
   /// These are the main statments that make up the conversation.
